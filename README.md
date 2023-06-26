@@ -11,5 +11,7 @@ Gex_05_02 is Assignment 5.2
 ex_07_01 is the code for assignment 7.1
 words.txt is the required text file for input of assignment 7.1
 
-ex_07_01 is the code for assignment 7.2
+ex_07_02 is the code for assignment 7.2
 mbox-short.txt is the required input text file
+
+ex_08_01 are programs from lecture 8.1
