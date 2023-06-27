@@ -15,3 +15,5 @@ ex_07_02 is the code for assignment 7.2
 mbox-short.txt is the required input text file
 
 ex_08_01 are programs from lecture 8.1
+
+ex_08_02 are programs from lecture 8.2
