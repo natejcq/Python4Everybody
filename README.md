@@ -1,5 +1,5 @@
 # Python4Everybody Specialization
-A collection of programs of  Python for Everybody offered by University of Michigan on Coursera 
+A collection of programs of  Python for Everybody specialization offered by University of Michigan on Coursera 
 
 ex_04_06 is the Assignment 4.6
 
