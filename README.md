@@ -21,4 +21,11 @@ ex_08_02 are programs from lecture 8.2
 ex_08_03 are programs from lecture 8.3
 mbox-short.txt is the required input file
 
+ex_08_04 is gradedd assignment 8.4
 romeo.txt is the required input file for Graded assignment 8.4
+
+ex_08_05 is graded assignment 8.5
+mbox-short.txt is the required input text file
+
+ex_08_06 is the code from Worked Exercise: Lists
+mbox-short.txt is the required input text file
