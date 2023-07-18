@@ -37,3 +37,8 @@ ex_09_02 are the programs done in lecture 9.2
 ex_09_03 are the programs done in lecture 9.3
 
 ex_09_04 is my attempt at assignment 9.4
+Use mbox-short.txt as input file
+
+ex_09_05 are the programs in Worked Exercise : Dictionaries
+
+ex_10_01 are the programs done in lecture 10
