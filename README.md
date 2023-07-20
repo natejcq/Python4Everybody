@@ -41,4 +41,4 @@ Use mbox-short.txt as input file
 
 ex_09_05 are the programs in Worked Exercise : Dictionaries
 
-ex_10_01, ex_10_02 are the programs done in lecture 10
+ex_10_01, ex_10_01p2 are the programs done in lecture 10
