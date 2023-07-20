@@ -1,5 +1,6 @@
 # Python4Everybody Specialization
-A collection of programs of  Python for Everybody specialization offered by University of Michigan on Coursera 
+
+A collection of programs / notes of Python for Everybody specialization offered by University of Michigan on Coursera 
 
 ex_04_06 is my attempt at the Assignment 4.6
 
@@ -39,6 +40,11 @@ ex_09_03 are the programs done in lecture 9.3
 ex_09_04 is my attempt at assignment 9.4
 Use mbox-short.txt as input file
 
-ex_09_05 are the programs in Worked Exercise : Dictionaries. clown.txt is the required text file
+ex_09_05 are the programs in Worked Exercise : Dictionaries. 
+clown.txt is the required text file
 
-ex_10_01, ex_10_01p2 are the programs done in lecture 10. romeo.txt is the required text file
+ex_10_01, ex_10_01p2 are the programs done in lecture 10. 
+romeo.txt is the required text file
+
+ex_10_02 is my attempt at assignment 10.2
+mbox-short.txt is the required text file
