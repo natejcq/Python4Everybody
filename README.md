@@ -1,13 +1,21 @@
 # Python4Everybody Specialization
 
+pythonlearn.pdf is the textbook for this specialization
+
 A collection of programs / notes of Python for Everybody specialization offered by University of Michigan on Coursera 
 
 ex_04_06 is my attempt at the Assignment 4.6
 
-ex_05_01 and ex_05_02 are programs based on the concepts in lecture 5.1 and 5.2 on strings.
+ex_05_01 and ex_05_02 are programs of lecture 5.1 and 5.2 on strings.
 Note: The codes are not in the same order as in the lectures
 
 ex_05_02G is my attempt at Assignment 5.2
+
+ex_06_01 are the programs of lecture 6.1 on strings
+
+ex_06_02 are the programs of lecture 6.2 on manipulating strings
+
+files.pdf are lecture notes on the strings chapter
 
 ex_07_01 is the code for assignment 7.1
 words.txt is the required text file for input of assignment 7.1
