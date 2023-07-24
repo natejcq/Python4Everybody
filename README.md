@@ -56,3 +56,5 @@ romeo.txt is the required text file
 
 ex_10_02 is my attempt at assignment 10.2
 mbox-short.txt is the required text file
+
+ex_10_03 is the worked assignment: Lists and Tuples
