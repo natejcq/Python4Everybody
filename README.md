@@ -67,4 +67,6 @@ mbox-short.txt is the required text file
 
 ex_10_03 is the worked assignment: Lists and Tuples
 
-ex_11_01 is 
+CHAPTER 11 REGULAR EXPRESSIONS
+
+ex_11_01 is the content of lecture 11.1
